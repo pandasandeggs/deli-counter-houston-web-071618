@@ -5,6 +5,7 @@ def line(array)
 	  puts "The line is currently empty."
 	else
 	  puts 
+	 end
 end
 
 def take_a_number(array,string)
