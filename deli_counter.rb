@@ -5,7 +5,6 @@ def line(array)
 	  array.each {|index,string| puts " The line is currently: #{index + 1}. #{string}"}
 	else
 	  puts "The line is currently empty."
-	else
 	 end
 end
 
